@@ -1,0 +1,54 @@
+Base path: F:/Programs/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-8-14828
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=0 type=0 insize=4822 outsize=1034 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4822 outsize=1128 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4822 outsize=1672 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2798 outsize=1851 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2798 outsize=817 kw=POINT_COOKIE ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=2798 outsize=3632 kw=DIRECTIONAL_COOKIE ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=2798 outsize=2040 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=2798 outsize=2917 kw=POINT_COOKIE ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=867 outsize=84 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=10590 outsize=990 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=10590 outsize=1672 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1742 outsize=671 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1742 outsize=3248 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3712 outsize=1753 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=3816 outsize=330 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=3824 outsize=1772 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3824 outsize=1185 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=3824 outsize=328 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=617 outsize=281 kw= ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (37): 'tex2Dproj': no matching 2 parameter intrinsic function; Possible intrinsic functions are: tex2Dproj(sampler2D, float4|half4|min10float4|min16float4)
+  api=4 type=1 insize=1623 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (37): 'tex2Dproj': no matching 2 parameter intrinsic function; Possible intrinsic functions are: tex2Dproj(sampler2D, float4|half4|min10float4|min16float4)
+  api=8 type=0 insize=1623 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at (37): 'tex2Dproj': no matching 2 parameter intrinsic function; Possible intrinsic functions are: tex2Dproj(sampler2D, float4|half4|min10float4|min16float4)
+  api=4 type=1 insize=1623 outsize=0 kw= ok=0
+Unhandled exception: Readfile from pipe failed. GLE=The pipe has been ended.
+
+
+Quitting shader compiler process

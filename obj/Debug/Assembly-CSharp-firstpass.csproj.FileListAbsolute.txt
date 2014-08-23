@@ -1,0 +1,11 @@
+F:\Projects\Annihilation Reloaded\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+F:\Projects\Annihilation Reloaded\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+F:\Projects\Annihilation Reloaded\Temp\bin\Debug\UnityEditor.dll
+F:\Projects\Annihilation Reloaded\Temp\bin\Debug\UnityEngine.dll
+F:\Projects\Annihilation Reloaded\Temp\bin\Debug\Mono.Cecil.dll
+F:\Projects\Annihilation Reloaded\Temp\bin\Debug\nunit.framework.dll
+F:\Projects\Annihilation Reloaded\Temp\bin\Debug\Unity.DataContract.dll
+F:\Projects\Annihilation Reloaded\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+F:\Projects\Annihilation Reloaded\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+F:\Projects\Annihilation Reloaded\obj\Debug\Assembly-CSharp-firstpass.dll
+F:\Projects\Annihilation Reloaded\obj\Debug\Assembly-CSharp-firstpass.pdb
